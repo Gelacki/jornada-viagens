@@ -8,14 +8,14 @@
 :root {
   --primary-color: #8f0101;
   --secondary-color: #b81515;
-  --backgrond-primary-color: #ffffff;
-  --backgrond-secondary-color: #f5f5f5;
-  --backgrond-tertiary-color: #000000;
+  --background-primary-color: #ffffff;
+  --background-secondary-color: #f5f5f5;
+  --background-tertiary-color: #000000;
   --text-primary-color: #222222;
   --text-secondary-color: #ffffff;
   --title-weight: 700;
   --text-weight: 400;
-  -menu-text-weight: 500;
+  --menu-text-weight: 500;
 }
 
 * {
